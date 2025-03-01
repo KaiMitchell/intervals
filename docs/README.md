@@ -15,4 +15,4 @@
     - The timer must be displayed counting down within the milliseconds.
     - A stat, stop and reset button must be displayed to interact with the time.
 ### Idea
-![screenshot] (./appIdea.png)
+![screenshot](./appIdea.png)
