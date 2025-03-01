@@ -14,5 +14,5 @@
     - There must be an a scroll wheel with numbers ranging from 1 - sets to associate the exercise with a set.
     - The timer must be displayed counting down within the milliseconds.
     - A stat, stop and reset button must be displayed to interact with the time.
-
-    
+### Idea
+![screenshot] (./appIdea.png)
